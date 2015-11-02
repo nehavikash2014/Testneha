@@ -1,1 +1,1 @@
-﻿New-Item -path "e:\GitTesting" -name "testing" -itemType "directory" 
+﻿New-Item -path "d:\GitTesting" -name "testing" -itemType "directory" 
