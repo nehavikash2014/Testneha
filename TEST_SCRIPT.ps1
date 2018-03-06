@@ -8,4 +8,3 @@ line in master
 
 in branch again
 
-master line
